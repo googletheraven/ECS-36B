@@ -1,0 +1,22 @@
+ w = 4
+ x = 2/3
+ y = 5/6
+ z = 0
+ x+y = 3/2
+ x-y = -1/6
+ x*y = 5/9
+ x/y = 4/5
+ -x = -2/3
+ x+2 = 8/3
+ 2+x = 8/3
+ x-2 = -4/3
+ 2-x = 4/3
+ 2*x = 4/3
+ x*2 = 4/3
+ x/2 = 1/3
+ 2/x = 3
+ w+x+y = 11/2
+ print_fraction: 5/6
+ x / z = Exception: zero denominator
+ 2 * ( x + y ) = 3
+ print_fraction: 2/3
